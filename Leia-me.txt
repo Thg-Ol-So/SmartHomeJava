@@ -1,0 +1,4 @@
+Abra o Projeto NetBeans
+Execute a Class no pacote View
+Obs: Executar o o arduino conectado.
+
